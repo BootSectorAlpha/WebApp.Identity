@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ESTUDOS\\1-TI\\PROGRAMAÇÃO\\JAVASCRIPT\\FRAMEWORKS\\ANGULAR\\ANGULAR\\PROJETOS\\AngularProgrAmada\\WebApp.Identity\\WebApp.Identity\\WebApp.Identity.csproj": {}
+    "D:\\Projetos\\Git\\WebApp.Identity\\WebApp.Identity\\WebApp.Identity.csproj": {}
   },
   "projects": {
-    "D:\\ESTUDOS\\1-TI\\PROGRAMAÇÃO\\JAVASCRIPT\\FRAMEWORKS\\ANGULAR\\ANGULAR\\PROJETOS\\AngularProgrAmada\\WebApp.Identity\\WebApp.Identity\\WebApp.Identity.csproj": {
+    "D:\\Projetos\\Git\\WebApp.Identity\\WebApp.Identity\\WebApp.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\1-TI\\PROGRAMAÇÃO\\JAVASCRIPT\\FRAMEWORKS\\ANGULAR\\ANGULAR\\PROJETOS\\AngularProgrAmada\\WebApp.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
+        "projectUniqueName": "D:\\Projetos\\Git\\WebApp.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
         "projectName": "WebApp.Identity",
-        "projectPath": "D:\\ESTUDOS\\1-TI\\PROGRAMAÇÃO\\JAVASCRIPT\\FRAMEWORKS\\ANGULAR\\ANGULAR\\PROJETOS\\AngularProgrAmada\\WebApp.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
+        "projectPath": "D:\\Projetos\\Git\\WebApp.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
         "packagesPath": "C:\\Users\\Lutiell\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\1-TI\\PROGRAMAÇÃO\\JAVASCRIPT\\FRAMEWORKS\\ANGULAR\\ANGULAR\\PROJETOS\\AngularProgrAmada\\WebApp.Identity\\WebApp.Identity\\obj\\",
+        "outputPath": "D:\\Projetos\\Git\\WebApp.Identity\\WebApp.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lutiell\\AppData\\Roaming\\NuGet\\NuGet.Config",
